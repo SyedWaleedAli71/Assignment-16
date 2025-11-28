@@ -20,4 +20,37 @@
 // }
 // 
 // Q.5
-
+// var fruits = ["Apple","Mango","Banana","Graphs"];
+// for (var i = 0; i < fruits.length; i++){
+// document.writeln(fruits[i] + "<br>");
+// }
+// 
+// Q.6
+// document.writeln("<h3>Counting:</h3>");
+// for (var i = 1; i <= 15; i++) {
+//     document.writeln(i + ", ");
+// }
+// 
+// document.writeln("<h3>Reverse Counting:</h3>");
+// for (var i = 10; i >= 1; i--) {
+//     document.writeln(i + ", ");
+// }
+// // 
+//c. Even numbers
+// document.writeln("<h3>Even:</h3>");
+// for (var i = 0; i <= 20; i += 2) {
+//     document.writeln(i + ", ");
+// }
+// //
+//d. Odd numbers
+// document.writeln("<h3>Odd:</h3>");
+// for (var i = 1; i <= 19; i += 2) {
+//     document.writeln(i + ", ");
+// }
+//e. Series
+// document.writeln("<h3>Series:</h3>");
+// for (var i = 2; i <= 20; i += 2) {
+//     document.writeln(i + "k, ");
+// }
+// 
+// Q.7
