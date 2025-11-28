@@ -54,3 +54,21 @@
 // }
 // 
 // Q.7
+// var A = ["cake", "apple pie", "cookie", "chips", "patties"];
+
+// var userInput = prompt("Welcome to My Bakery. What do you want to order?").toLowerCase();
+
+// var found = false;
+
+// for (var i = 0; i < A.length; i++) {
+//     if (userInput === A[i]) {
+//         found = true;
+//         break;
+//     }
+// }
+
+// if (found === true) {
+//     document.writeln(userInput + " is <b>available</b> " + i + " in our bakery.");
+// } else {
+//     document.writeln("Sorry. " + userInput + " is <b>not available</b> in our bakery.");
+// }
