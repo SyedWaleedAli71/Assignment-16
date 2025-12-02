@@ -72,3 +72,33 @@
 // } else {
 //     document.writeln("Sorry. " + userInput + " is <b>not available</b> in our bakery.");
 // }
+// 
+// Q.8
+// var arr = [24,53,78,91,12];
+// var larGest = [0];
+
+// for (var i = 1; i < arr.length; i++){
+//     if(arr[i] > larGest){
+// larGest = arr[i];
+//     }
+// }
+// console.log("The Largest Number is " + larGest);
+// 
+// Q.9
+// let arr = [24,53,78,91,12];
+// let smallest = arr[0];
+
+// for (let i = 1; i < arr.length; i++){
+//     if(arr[i] < smallest){
+// smallest = arr[i];
+//     }
+// }
+// console.log("The smallest Number is " + smallest);
+// 
+// Q.10
+// for (let i = 1; i <= 100; i++) {
+//     if (i % 5 === 0) {
+//         console.log(i);
+//     }
+// }
+// Completed
